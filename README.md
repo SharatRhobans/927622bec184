@@ -2,7 +2,7 @@
 
 ## Overview
 
-This React-based web application provides real-time stock market analytics and visualization tools for financial analysis. Developed for [Company Name]'s technical evaluation, the dashboard delivers:
+This React-based web application provides real-time stock market analytics and visualization tools for financial analysis. Developed for Afford Medical Technologies Pvt Ltd's technical evaluation, the dashboard delivers:
 
 - 📈 Interactive stock price charts
 - 🔥 Correlation heatmaps between stocks
